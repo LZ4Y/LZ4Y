@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LZ4Y,
-- 👀 I’m interested in streaming and coding.
+- 👀 I’m interested coding and cyber security.
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on @rawrl.
 - 📫 You can reach me from discord Lzay#0001.
